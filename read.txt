@@ -1,0 +1,4 @@
+To open and run the programs of both SDES and RSA, unzip the main 'Practical-Assignment.zip' and you will have two files containing the programs. 
+In each file, open up the .cs file where you will get the codes. 
+To run the program, you can click on the down button next to play and click "Run associated project with this file".
+If not working, add the Practical-Assignment file into the WorkSpace, then open up a New Terminal by clicking Terminal section next to Run and select Practical Assignment.
